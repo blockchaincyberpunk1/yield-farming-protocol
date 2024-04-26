@@ -1,0 +1,21 @@
+Smart Contract Development
+Solidity - The primary language for writing Ethereum smart contracts.
+Hardhat -  development environment, testing framework, and asset pipeline for blockchains using the Ethereum Virtual Machine (EVM), which will help in smart contract deployment and testing.
+
+Backend
+Node.js - As a JavaScript runtime, it's efficient for handling asynchronous calls and can interact smoothly with the Ethereum blockchain via libraries.
+Express.js - This minimal and flexible Node.js web application framework provides a robust set of features to create APIs quickly.
+
+Database
+MongoDB - A NoSQL database that can store the transaction and user data. It's flexible and scales well.
+
+Frontend
+React - A JavaScript library for building user interfaces, particularly single-page applications where you need a responsive and dynamic user experience.
+Web3.js - A collection of libraries that allow you to interact with a local or remote Ethereum node using HTTP, IPC, or WebSocket.
+
+Blockchain Interactions
+MetaMask - A crypto wallet and gateway to blockchain apps, widely used for managing user accounts and facilitating transactions on Ethereum.
+Infura - Provides scalable API access to the Ethereum and IPFS networks, useful for deploying applications without running an Ethereum node yourself.
+
+Tools and Utilities
+Ethers.js - An alternative to Web3.js, known for being more modular and lightweight.
